@@ -1,4 +1,4 @@
-# Chatbot Almoço
+# Meal Speaker
 
 Este é um projeto em Python que utiliza a biblioteca `pyttsx3` para síntese de fala e a biblioteca `speech_recognition` para reconhecimento de fala. Ele ouve a pergunta do usuário sobre o cardápio de almoço de um determinado dia da semana e responde com o cardápio correspondente. O usuário também pode sair da aplicação dizendo "sair" ou "obrigado".
 
@@ -22,8 +22,8 @@ Este é um projeto em Python que utiliza a biblioteca `pyttsx3` para síntese de
 1. Clone o repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/marcio-guimaraes/chatbot-almoco.git
-    cd chatbot-almoco
+    git clone https://github.com/marcio-guimaraes/Meal-Speaker.git
+    cd Meal-Speaker
     ```
 
 2. Crie um ambiente virtual e ative-o:
