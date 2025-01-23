@@ -45,7 +45,9 @@ Este é um projeto em Python que utiliza a biblioteca `pyttsx3` para síntese de
 3. Instale as dependências:
 
     ```bash
-    pip install -r requirements.txt
+    pip install pyttsx3
+    pip install SpeechRecognition
+    pip install pyaudio
     ```
 
 ## Como Usar
@@ -59,11 +61,6 @@ Este é um projeto em Python que utiliza a biblioteca `pyttsx3` para síntese de
 2. O script irá pedir para você perguntar sobre o almoço. Diga algo como "Qual é o almoço de segunda-feira?".
 3. O script irá reconhecer sua pergunta e responderá com o cardápio de almoço do dia solicitado.
 4. Para encerrar, diga "sair" ou "obrigado".
-
-## Estrutura do Código
-
-- `main.py`: Contém a lógica principal do programa.
-- `requirements.txt`: Lista de dependências necessárias para rodar o projeto.
 
 ## Funções Principais
 
